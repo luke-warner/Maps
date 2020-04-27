@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"75"|"Climate Factor"|575565|"13225"|"418524"
+"County or Parish"|"TX069"|"Castro"|575565|"13225"|"418525"
+"MLRA"|"77C"|"Southern High Plains, Southern Part"|560741|"13225"|"418526"
+"MLRA"|"77E"|"Southern High Plains, Breaks"|14824|"13225"|"418527"
+"Rainfall Factor Area (USLE)"|"110"|"Rainfall Factor"|575565|"13225"|"418528"
+"State or Territory"|"TX"|"Texas"|575565|"13225"|"418529"
+"Texas Administrative Zones"|"1"|"Texas Zone 1 (Lubbock)"|575565|"13225"|"418530"

@@ -1,0 +1,33 @@
+musym,Mapunit Name,mukey
+AcA,"Acuff loam, 0 to 1 percent slopes",363754
+AcB,"Acuff loam, 1 to 3 percent slopes",363755
+AcC,"Acuff loam, 3 to 5 percent slopes",363756
+BeC,"Berda fine sandy loam, 3 to 5 percent slopes",363757
+BeD,"Berda fine sandy loam, 5 to 8 percent slopes",363758
+BP,"Pits, borrow",363779
+BpA,"Bippus clay loam, 0 to 2 percent slopes, occasionally flooded",363759
+BpB,"Bippus clay loam, 1 to 3 percent slopes",363760
+Bs,"Bippus soils, frequently flooded",363761
+DRC,"Drake soils, 1 to 8 percent slopes",2428287
+EcA,"Estacado clay loam, 0 to 1 percent slopes",2428277
+EcB,"Estacado clay loam, 1 to 3 percent slopes",2428278
+EsA,"Estacado loam, 0 to 1 percent slopes",363764
+EsB,"Estacado loam, 1 to 3 percent slopes",363765
+LcA,"Lazbuddie clay, 0 to 1 percent slopes, rarely ponded",2428279
+LoA,"Lofton clay loam, 0 to 1 percent slopes, rarely ponded",2428280
+MbD,"Mansker-Berda loams, 5 to 8 percent slopes",363768
+McA,"McLean clay, 0 to 1 percent slopes, occasionally ponded",2428288
+MeC,"Pep-Estacado loams, 3 to 5 percent slopes",363769
+OcA,"Olton clay loam, 0 to 1 percent slopes",2428281
+OcB,"Olton clay loam, 1 to 3 percent slopes",2428282
+OcC,"Olton clay loam, 3 to 5 percent slopes",2428283
+PcC,"Pep clay loam, 3 to 5 percent slopes",2428289
+PoA,"Posey complex, 0 to 1 percent slopes",363773
+PoB,"Posey complex, 1 to 3 percent slopes",363774
+Pt,"Potter soils, 3 to 20 percent slopes",363775
+PuA,"Pullman clay loam, 0 to 1 percent slopes",363776
+PuB,"Pullman clay loam, 1 to 3 percent slopes",363777
+RaA,"Randall clay, 0 to 1 percent slopes, occasionally ponded",2428284
+SpA,"Sparenberg clay, 0 to 1 percent slopes, occasionally ponded",2428290
+W,Water,363780
+ZcA,"Zita clay loam, 0 to 1 percent slopes",2428291

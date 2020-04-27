@@ -1,0 +1,3 @@
+"TX069"|5|"DEP"|"Depression, closed"|A shallow, saucer-shaped area that is slightly lower on the landscape than the surrounding area and that does not have a natural outlet for surface drainage. Typically 0.1 to 4 acres.|"251765"
+"TX069"|5|"GPI"|"Gravel pit"|An open excavation from which soil and underlying material have been removed and used, without crushing, as a source of sand or gravel. Typically 0.1 to 4 acres.|"251766"
+"TX069"|5|"ROC"|"Rock outcrop"|An exposure of bedrock at the surface of the earth. Not used where the named soils of the surrounding map unit are shallow overbedrock or where Rock outcrop is a named component of the map unit. Typically 0.1 to 4 acres.|"251767"

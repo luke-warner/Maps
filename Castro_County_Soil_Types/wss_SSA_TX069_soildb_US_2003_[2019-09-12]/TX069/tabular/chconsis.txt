@@ -1,0 +1,7 @@
+"Very firm"|"Very hard"||||"Very sticky"|"Very plastic"|Yes|"53650499"|"5564786"
+"Very firm"|"Very hard"||||"Very sticky"|"Very plastic"|Yes|"53650500"|"5564811"
+"Firm"|"Hard"||||"Moderately sticky"|"Moderately plastic"|Yes|"53650501"|"5564809"
+"Firm"|"Hard"||||"Very sticky"|"Very plastic"|Yes|"53650502"|"5564788"
+"Very firm"|"Very hard"||||"Very sticky"|"Very plastic"|Yes|"53650829"|"5564776"
+"Very firm"|"Extremely hard"||||"Very sticky"|"Very plastic"|Yes|"53650830"|"5564798"
+"Extremely firm"|"Extremely hard"||||"Very sticky"|"Very plastic"|Yes|"53650831"|"5564775"
